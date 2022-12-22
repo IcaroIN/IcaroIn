@@ -1,12 +1,17 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Icaro and my nickname is "IcaroIn"!
 
-
+- 🔭 I’m currently working on 3corações
+- 🌱 I’m currently learning VB.NET and UiPath RPA    
+- 👯 I’m looking to collaborate on robotized process automation
+- 💬 Ask me about anything
+- 📫 How to reach me: icaroin.dev@gmail.com
+- ⚡ Fun fact: Animes
 
 <div>
 <a href="https://github.com/IcaroIN">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroIN&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IcaroIN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroIN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contatos:
